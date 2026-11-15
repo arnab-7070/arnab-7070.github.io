@@ -44,9 +44,3 @@ I'm a B.Tech Computer Science Engineering student at the Institute of Engineerin
 ## Deployment
 
 The site is deployed with GitHub Pages from the `main` branch. Every push to `main` updates the live site in a minute or two.
-
-## Contact
-
-- Email: arnabmandal7070@gmail.com
-- LinkedIn: https://www.linkedin.com/in/arnab-mandal2005
-- GitHub: https://github.com/arnab-7070
